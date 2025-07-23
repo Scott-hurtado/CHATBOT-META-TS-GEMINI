@@ -1,0 +1,39 @@
+[handleMsg]:  {
+  type: 'text',
+  from: '5216623042312',
+  to: '15556239224',
+  body: 'Que ondas',
+  name: 'Sun Designs',
+  pushName: 'Sun Designs',
+  message_id: 'wamid.HBgNNTIxNjYyMzA0MjMxMhUCABIYIDZEM0E0M0Q3QTFCMTVCNjBDMzAzMDFFQkQ0RDY1MEZFAA==',
+  timestamp: '1753303544',
+  host: '15556239224'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1843b340-e845-4fb7-9221-1c3d322450a7',
+  keyword: 'key_aa5a9668-80c2-4447-872d-83d36196a478',
+  answer: '🤖Hola soy Maxibot preguntame lo que quieras, Respondere tus preguntas',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ddfe38718f7568d650e6bae184957e23'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216623042312',
+  to: '15556239224',
+  body: 'Cuál es el sentido de la vida',
+  name: 'Sun Designs',
+  pushName: 'Sun Designs',
+  message_id: 'wamid.HBgNNTIxNjYyMzA0MjMxMhUCABIYIEU5QjExMzYwQjIwQTBEMDE2MEE1MTRGRDIzOTZDNEIzAA==',
+  timestamp: '1753303555',
+  host: '15556239224'
+}
