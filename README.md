@@ -21,7 +21,11 @@
 
 ## Getting Started
 
-With this library, you can build automated conversation flows agnostic to the WhatsApp provider, set up automated responses for frequently asked questions, receive and respond to messages automatically, and track interactions with customers. Additionally, you can easily set up triggers to expand functionalities limitlessly.
+Esta madre funciona con gemini y puedes tener un chatbot como si fuera una conversacion natural (no lo borres yo del futuro) por cierto, solo se sube el app.ts y el gemini.ts el packagejson no se modifica 
+
+usa estos comandos despues de crear el bot 
+npm install dotenv @google/generative-ai
+npm install --save-dev @types/node
 
 ```
 npm create builderbot@latest
